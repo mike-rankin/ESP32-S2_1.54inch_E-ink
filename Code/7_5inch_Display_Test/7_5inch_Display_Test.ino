@@ -44,7 +44,7 @@ void setup()
 
 
 
-const char HelloEpaper[] = "ESP32-C3 eInk!";
+const char HelloEpaper[] = "ESP32-S2 eInk!";
 
 void loop() 
 {
